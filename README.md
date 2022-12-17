@@ -18,6 +18,9 @@ Essa sequência também costumamos chamar de **“sequência lógica”**.
 
 E é esta **sequência de instruções** que precisamos traduzir para um computador quando escrevemos um *software*.
 
+<!-- Informações -->
+## Informações
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-def-con-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
