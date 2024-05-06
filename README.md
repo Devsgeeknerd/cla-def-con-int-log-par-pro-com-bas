@@ -9,14 +9,14 @@ Lógica para programação é a maneira como organizamos nossos pensamentos para
 
 Por exemplo:
 
-* como fazemos para verificar se uma pessoa é maior de idade ou não?
+* Como fazemos para verificar se uma pessoa é maior de idade ou não?
   * Os pensamentos que executamos para fazermos essa verificação constituem a lógica para resolução desse problema e, consequentemente, são a lógica para programação para se escrever um software para se resolver este problema.
 
-Esses pensamentos podem ser descritos como uma **sequência de instruções**, que devem ser seguidas para se cumprir determinada tarefa.
+Esses pensamentos podem ser descritos como uma sequência de instruções, que devem ser seguidas para se cumprir determinada tarefa.
 
 Essa sequência também costumamos chamar de **“sequência lógica”**.
 
-E é esta **sequência de instruções** que precisamos traduzir para um computador quando escrevemos um *software*.
+E é esta sequência de instruções que precisamos traduzir para um computador quando escrevemos um *software*.
 
 <!-- Informações -->
 ## &#8505; Informações
